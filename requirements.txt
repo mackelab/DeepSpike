@@ -1,0 +1,8 @@
+https://github.com/Lasagne/Lasagne/archive/master.zip
+matplotlib==2.0.2
+numpy==1.13.1
+pyspike==0.5.1
+scipy==0.19.1
+seaborn==0.8
+Theano==0.10.0b1
+tqdm==4.15.0
